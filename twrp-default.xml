@@ -64,7 +64,7 @@
     <project path="system/libhwbinder" name="android_system_libhwbinder" remote="TeamWin" revision="android-12.1"/>
     <project path="system/security" name="android_system_security" remote="TeamWin" revision="android-12.1"/>
     <project path="system/update_engine" name="android_system_update_engine" remote="TeamWin" revision="android-12.1"/>
-    <project path="system/vold" name="android_system_vold" remote="TeamWin" revision="android-12.1"/>
+    <project path="system/vold" name="zainarbani/android_system_vold" remote="github" revision="android-12.1"/>
 
     <!-- Use TeamWin custom vendor repo for build system -->
     <project path="vendor/twrp" name="android_vendor_twrp" remote="TeamWin" revision="android-12.1" />
