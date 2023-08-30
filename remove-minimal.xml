@@ -233,7 +233,6 @@
     <remove-project name="platform/external/libcap-ng"/>
     <remove-project name="platform/external/libchromeos-rs"  />
     <remove-project name="platform/external/libcups"/>
-    <remove-project name="platform/external/libdivsufsort"/>
     <remove-project name="platform/external/libepoxy"  />
     <remove-project name="platform/external/libese"/>
     <remove-project name="platform/external/libexif"/>
