@@ -125,7 +125,6 @@
     <remove-project name="platform/external/cpuinfo"  />
     <remove-project name="platform/external/crcalc"/>
     <remove-project name="platform/external/crosvm"  />
-    <remove-project name="platform/external/curl"/>
     <remove-project name="platform/external/dagger2"/>
     <remove-project name="platform/external/deqp"/>
     <remove-project name="platform/external/deqp-deps/SPIRV-Headers" />
@@ -551,7 +550,6 @@
     <remove-project name="platform/frameworks/opt/timezonepicker"/>
     <remove-project name="platform/frameworks/opt/tv/tvsystem" />
     <remove-project name="platform/frameworks/opt/vcard"/>
-    <remove-project name="platform/frameworks/proto_logging"/>
     <remove-project name="platform/frameworks/rs"/>
     <remove-project name="platform/frameworks/wilhelm"/>
 
@@ -792,7 +790,6 @@
     <remove-project name="platform/system/chre"/>
     <remove-project name="platform/system/iorap"/>
     <remove-project name="platform/system/libartpalette"/>
-    <remove-project name="platform/system/libsysprop"/>
     <remove-project name="platform/system/media"/>
     <remove-project name="platform/system/nvram"/>
     <remove-project name="platform/system/server_configurable_flags" />
